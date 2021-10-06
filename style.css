@@ -1,0 +1,25 @@
+h1 {
+color:white;
+font-family:helvetica;
+border: 3px dotted black;
+padding:50px;
+}
+
+h2 {
+color:white;
+font-family:helvetica;
+}
+
+
+body {
+background-color:orange;
+}
+
+img {
+width:50%;
+height:50%;
+}
+
+
+
+
